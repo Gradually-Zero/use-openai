@@ -1,9 +1,9 @@
 {
   "name": "gradually-zero-ai",
-  "displayName": "gradually-zero-ai",
+  "displayName": "Gradually Zero AI",
   "publisher": "Gradually-Zero",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.87.0"
   },

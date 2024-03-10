@@ -1,3 +1,3 @@
 # Gradually-Zero-AI
 
-a use openai api vscode extension
+A use openai api vscode extension
