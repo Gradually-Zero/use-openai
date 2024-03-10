@@ -15,10 +15,10 @@ devDependencies:
     specifier: ^1.87.0
     version: 1.87.0
   '@typescript-eslint/eslint-plugin':
-    specifier: ^7.0.2
+    specifier: ^7.1.1
     version: 7.1.1(@typescript-eslint/parser@7.1.1)(eslint@8.57.0)(typescript@5.4.2)
   '@typescript-eslint/parser':
-    specifier: ^7.0.2
+    specifier: ^7.1.1
     version: 7.1.1(eslint@8.57.0)(typescript@5.4.2)
   '@vscode/test-cli':
     specifier: ^0.0.6
@@ -27,10 +27,10 @@ devDependencies:
     specifier: ^2.3.9
     version: 2.3.9
   eslint:
-    specifier: ^8.56.0
+    specifier: ^8.57.0
     version: 8.57.0
   typescript:
-    specifier: ^5.3.3
+    specifier: ^5.4.2
     version: 5.4.2
 
 packages:
