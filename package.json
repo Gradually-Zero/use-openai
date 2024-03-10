@@ -1,6 +1,7 @@
 {
   "name": "gradually-zero-ai",
   "displayName": "gradually-zero-ai",
+  "publisher": "Gradually-Zero",
   "description": "",
   "version": "0.0.1",
   "engines": {
