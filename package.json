@@ -1,6 +1,6 @@
 {
-  "name": "use-openai",
-  "displayName": "use-openai",
+  "name": "gradually-zero-ai",
+  "displayName": "gradually-zero-ai",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "use-openai.helloWorld",
-        "title": "Hello World"
+        "command": "gradually-zero-ai.connect",
+        "title": "Connect Openai"
       }
     ]
   },
@@ -28,14 +28,17 @@
     "test": "vscode-test"
   },
   "devDependencies": {
-    "@types/vscode": "^1.87.0",
     "@types/mocha": "^10.0.6",
     "@types/node": "18.x",
+    "@types/vscode": "^1.87.0",
     "@typescript-eslint/eslint-plugin": "^7.1.1",
     "@typescript-eslint/parser": "^7.1.1",
-    "eslint": "^8.57.0",
-    "typescript": "^5.4.2",
     "@vscode/test-cli": "^0.0.6",
-    "@vscode/test-electron": "^2.3.9"
+    "@vscode/test-electron": "^2.3.9",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "openai": "^4.28.4"
   }
 }
